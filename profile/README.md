@@ -21,8 +21,7 @@ Everything here is open source and in development.
 
 | Repository | What it is |
 | --- | --- |
-| [chek](https://github.com/readchek/chek) | The Chek server, an optional standalone library server. Its structure is being re-planned, and it has no code yet. |
-| [chek-reader](https://github.com/readchek/chek-reader) | The reading engine for iPhone, iPad and Mac. A Swift package any app can use, for EPUB, PDF, comics and more. |
-| [chek.page](https://github.com/readchek/chek.page) | The website at [chek.page](https://chek.page). |
-
-The iOS and macOS app will get its own repository once work on it starts.
+| [app](https://github.com/readchek/app) | The iPhone and iPad app. Reads local files, connects to Chek servers, and offers a demo of sample books and comics. |
+| [chek-reader](https://github.com/readchek/chek-reader) | The reading engine for iPhone, iPad and Mac. A Swift package any app can use, for EPUB, PDF, comics, MOBI, FictionBook, text and Markdown. |
+| [chek](https://github.com/readchek/chek) | The Chek server, an optional standalone library server in Rust. Scans folders, imports Komga libraries, runs source extensions, and syncs reading positions between devices. |
+| [chek.page](https://github.com/readchek/chek.page) | The website at [chek.page](https://chek.page), with the privacy policy, support page and the official extension repository. |
