@@ -11,6 +11,8 @@
   ·
   <a href="https://chek.page">chek.page</a>
   ·
+  <a href="https://docs.chek.page">Docs</a>
+  ·
   <a href="https://assets.chek.page/chek-promo-16x9.mp4">Watch the film</a>
 </p>
 
@@ -29,4 +31,5 @@ No ads, no tracking, and no account needed.
 | [chek-reader](https://github.com/readchek/chek-reader) | The reading engine. A Swift package any app can use, for EPUB, PDF, comics, MOBI, FictionBook, text and Markdown |
 | [chek](https://github.com/readchek/chek) | Chek server, a self-hosted library server in Rust, shipped as a Docker image |
 | [extensions](https://github.com/readchek/extensions) | Official source extensions for Chek server, such as Pepper&Carrot and Project Gutenberg classics |
+| [docs](https://docs.chek.page) | The documentation at [docs.chek.page](https://docs.chek.page): running your own server, its API, writing extensions and embedding Chek Reader |
 | [chek.page](https://github.com/readchek/chek.page) | The website, with the privacy policy and support page |
