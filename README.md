@@ -33,3 +33,10 @@ No ads, no tracking, and no account needed.
 | [extensions](https://github.com/readchek/extensions) | Official source extensions for Chek server, such as Pepper&Carrot and Project Gutenberg classics |
 | [docs](https://docs.chek.page) | The documentation at [docs.chek.page](https://docs.chek.page): running your own server, its API, writing extensions and embedding Chek Reader |
 | [chek.page](https://github.com/readchek/chek.page) | The website, with the privacy policy and support page |
+
+## Report a problem
+
+Problems with any part of Chek go to one place:
+[readchek/chek issues](https://github.com/readchek/chek/issues/new/choose).
+That covers the app, the web app, the server, the admin panel and extensions.
+No GitHub account? Write to [support@chek.page](mailto:support@chek.page).
