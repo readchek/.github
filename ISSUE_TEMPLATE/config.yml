@@ -1,0 +1,10 @@
+# The default for every readchek repository without its own templates:
+# problems with any part of Chek go to readchek/chek, so there's one list to watch.
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem with Chek
+    url: https://github.com/readchek/chek/issues/new/choose
+    about: The app, the web app, the server, the admin panel, extensions and this site all share one issue list.
+  - name: Write to us instead
+    url: https://chek.page/support
+    about: No GitHub account? Email support, or read the answers to common questions.
